@@ -3,4 +3,4 @@ se agrega mas informacion
 
 la informacion agreada es solo para simulacion 
 
-hoy es un dia soleado 
+hoy es un dia nublado 
